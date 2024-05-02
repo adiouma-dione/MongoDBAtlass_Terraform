@@ -1,0 +1,8 @@
+atlas_org_id = "6633761dab324d5a64fb0eca"
+atlas_project_name = "mySecondProject"
+environment = "dev"
+cluster_instance_size_name = "M2"
+cloud_provider = "AWS"
+atlas_region = "US_WEST_2"
+mongodb_version = "6.0"
+ip_address = "165.51.28.175"
